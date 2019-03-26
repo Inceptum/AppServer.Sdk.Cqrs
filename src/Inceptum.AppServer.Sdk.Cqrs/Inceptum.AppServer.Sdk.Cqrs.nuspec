@@ -11,8 +11,5 @@
     <releaseNotes></releaseNotes>
     <copyright>Copyright 2013</copyright>
     <tags></tags>
-	<dependencies>
-        <dependency id="Inceptum.AppServer.Sdk" version="$sdkVersion$" />
-    </dependencies>  
   </metadata>
 </package>
